@@ -1,6 +1,9 @@
 # My keyboard layouts
 
 Currently I'm using Carpalx [QGMLWB](http://mkweb.bcgsc.ca/carpalx/?full_optimization) fully optimized layout. 
+
+![layout picture](mycarpal.jpg)
+
 However, I've encountered Copy-Paste issue (Ctrl, V are too far from each other), so I decided to redefine virtual keys for layots:
 - `QGMLWB` layer will send virtual `vkQ`, `vkG`, `vkM`, `vkL`, `vkW`, `vkB`... except `F`, `N`, `V` keys;
   - `F` will send `vkV`, `N` will send `vkF`, `V` will send `vkN`;
